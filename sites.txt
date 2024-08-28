@@ -1,0 +1,5 @@
+https://httpbin.org/status/404
+https://httpbin.org/status/201
+https://www.alura.com.br
+https://www.google.com.br
+https://www.amazon.com.br
